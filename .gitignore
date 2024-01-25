@@ -1,8 +1,13 @@
-Chatbot Local Deployment/
-Algorithm and Data Structure/*
-!Algorithm and Data Structure/File Metadata Gathering
-LLM and LangChain Project/
-File Meta Data Deployment/
-General Practice/
-index.html
-.DS_Store
+# Ignore specific directories
+/Chatbot Local Deployment/
+/LLM and LangChain Project/
+/File Meta Data Deployment/
+/General Practice/
+
+# Ignore specific files
+/index.html
+/.DS_Store
+
+# Ignore everything in 'Algorithm and Data Structure' except 'File Metadata Gathering'
+/Algorithm and Data Structure/*
+!/Algorithm and Data Structure/File Metadata Gathering/
