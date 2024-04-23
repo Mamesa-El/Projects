@@ -3,11 +3,11 @@
 /LLM and LangChain Project/
 /File Meta Data Deployment/
 /General Practice/
-
+# /L.A.E.T
 # Ignore specific files
 /index.html
 /.DS_Store
-
+.evn
 # Ignore everything in 'Algorithm and Data Structure' except 'File Metadata Gathering'
 /Algorithm and Data Structure/*
 !/Algorithm and Data Structure/File Metadata Gathering/
