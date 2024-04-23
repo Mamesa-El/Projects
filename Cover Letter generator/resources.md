@@ -1,0 +1,1 @@
+[Authentication](https://blog.streamlit.io/streamlit-authenticator-part-1-adding-an-authentication-component-to-your-app/#how-to-hash-user-passwords)

@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    Mamesa:
+      email: mamesa.el@gmail.com
+      name: Mamesa El
+      password: Enterprise24.
+    User:
+      email: None
+      name: user
+      password: test
+cookie:
+  expiry_days: 0
+  key: no_expiration
+  name: just_some_cookie
+preauthorized:
+  emails:
+  - mamesa.el302@gmail.com
+  - mamesa.el@berkeley.edu
